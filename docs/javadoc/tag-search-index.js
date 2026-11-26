@@ -1,1 +1,1 @@
-tagSearchIndex = [{"l":"Serialized Form","h":"","u":"serialized-form.html"}];updateSearchResults();
+tagSearchIndex = [{"l":"Diagrama de classes","h":"package br.edu.ifgoiano.smartgrid","d":"Section","u":"br/edu/ifgoiano/smartgrid/package-summary.html#diagrama-de-classes-heading"},{"l":"Serialized Form","h":"","u":"serialized-form.html"}];updateSearchResults();
